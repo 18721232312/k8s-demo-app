@@ -34,4 +34,11 @@ public class GoodsController {
         mav.addObject("params", this.goodsService.findParams(gid));
         return mav;
     }
+
+    @GetMapping({"/"})
+    public ModelAndView showGoods() {
+        log.info("index");
+        ModelAndView mav = new ModelAndView("/index");
+        return mav;
+    }
 }

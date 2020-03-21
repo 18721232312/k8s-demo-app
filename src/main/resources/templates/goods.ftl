@@ -25,7 +25,7 @@
 <body style="background-color: #eeeeee">
 <ul class="layui-nav layui-bg-green">
     <div class="layui-container">
-        <li class="layui-nav-item" style="background-color: orange;margin-left: -14px"><a href="javascript:void(0)" style="font-size: 18px;color: white">贝亲童婴商城</a></li>
+        <li class="layui-nav-item" style="background-color: orange;margin-left: -14px"><a href="javascript:void(0)" style="font-size: 18px;color: white">童婴商城</a></li>
         <li class="layui-nav-item layui-this"><a href="">全球购</a></li>
         <li class="layui-nav-item"><a href="">旗舰店</a></li>
         <li class="layui-nav-item"><a href="">宝宝社区</a></li>
